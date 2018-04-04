@@ -1,0 +1,10 @@
+
+struct TestStructure<'a>{
+	x: &'a u32 
+}
+
+fn main() {
+    let ts = TestStructure{
+    	x
+    }
+}

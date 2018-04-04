@@ -1,0 +1,16 @@
+
+struct TestStructure<'a>{
+	x: &'a u32 
+}
+
+impl<'a> TestStructure<'a>{
+	fn ret
+}
+
+fn main() {
+    let ts = TestStructure{
+    	x: &5
+    };
+
+    println!("{:?}", ts.x);
+}

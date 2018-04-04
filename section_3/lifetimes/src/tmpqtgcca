@@ -1,0 +1,5 @@
+fn increase_by_fi
+
+fn main() {
+    println!("Hello, world!");
+}

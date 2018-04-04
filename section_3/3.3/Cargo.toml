@@ -1,0 +1,10 @@
+[package]
+name = "structs-enums"
+version = "0.1.0"
+authors = ["TheAdnan <adnankicin92@gmail.com>"]
+
+[dependencies.some_crate]
+path= "src/some_crate"
+
+[dependencies]
+regex = "0.2.9"
