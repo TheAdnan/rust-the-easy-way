@@ -1,5 +1,0 @@
-fn fn_nam
-
-fn main() {
-    println!("Hello, world!");
-}

@@ -1,5 +1,0 @@
-fn increas
-
-fn main() {
-    println!("Hello, world!");
-}

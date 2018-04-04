@@ -1,5 +1,0 @@
-fn increase_by_five<'a>(x:)
-
-fn main() {
-    println!("Hello, world!");
-}

@@ -1,5 +1,0 @@
-fn increase_b
-
-fn main() {
-    println!("Hello, world!");
-}
