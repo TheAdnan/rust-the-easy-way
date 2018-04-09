@@ -1,14 +1,12 @@
 extern crate rand;
-
 use rand::Rng;
 
 #[derive(Clone)]
 pub struct Mine{
-    pub position: (u32, u32),
-    pub active: bool
+    position: (u32, u32),
+    active: bool
 }
 
-#[derive(Clone)]
 pub struct MineField{
     pub size: (u32, u32),
     pub mines: Vec<Mine>
